@@ -15,4 +15,4 @@ To engineer a dynamic, live-updating market monitoring system that automates ris
 3. **Load:** The "Risk Dashboard" uses `XLOOKUP` to allow users to toggle between coins and see live risk ratings.
 
 ## 📊 Dashboard Preview
-*(Insert a screenshot here once you finish the visual part!)*
+*(Insert a screenshot here once you finish the visual part!!)*
